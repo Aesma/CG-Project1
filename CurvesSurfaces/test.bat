@@ -1,0 +1,1 @@
+curve_editor -input spline05_bspline_dups.txt -gui -curve_tessellation 30 -input spline05_bspline_dups.txt -gui -curve_tessellation 30
